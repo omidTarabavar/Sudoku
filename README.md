@@ -2,9 +2,9 @@
 
 Course: Fundamentals of Programming (FOP)
 
-This project is a Sudoku game developed in C++ as part of the Fundamentals of Programming course. Leveraging core programming concepts, I implemented key functionalities that enhance the gameplay experience:
+This project is a Sudoku game developed in C++ as part of the Fundamentals of Programming course. Using core programming concepts, I implemented the following functionalities:
 
-Create Puzzle: Generates a new, randomized Sudoku puzzle for the player.
-Solve Puzzle: Allows players to input solutions, with validation checks.
-Auto Solve Puzzle: Automatically solves any given puzzle, providing instant solutions.
-This project showcases my understanding of programming fundamentals and problem-solving in C++.
+Create Puzzle: Allows the user to manually set up a Sudoku puzzle.
+Solve Puzzle: Enables the user to solve the puzzle with validation checks.
+Auto Solve Puzzle: Automatically provides a solution to any given puzzle configuration.
+This project demonstrates my foundational skills in C++ programming and problem-solving.
